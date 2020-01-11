@@ -1,2 +1,4 @@
-# BenisonsStore
-BenisonsEcommerceMart
+# GHstore
+
+
+Build a store page
